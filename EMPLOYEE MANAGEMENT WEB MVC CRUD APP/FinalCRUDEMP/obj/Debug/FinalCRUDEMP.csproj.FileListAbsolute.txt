@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\FinalCRUDEMP\FinalCRUDEMP\bin\Debug\FinalCRUDEMP.dll.config
+C:\Users\HP\source\repos\FinalCRUDEMP\FinalCRUDEMP\bin\Debug\FinalCRUDEMP.dll
+C:\Users\HP\source\repos\FinalCRUDEMP\FinalCRUDEMP\bin\Debug\FinalCRUDEMP.pdb
+C:\Users\HP\source\repos\FinalCRUDEMP\FinalCRUDEMP\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\FinalCRUDEMP\FinalCRUDEMP\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\FinalCRUDEMP\FinalCRUDEMP\obj\Debug\FinalCRUDEMP.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FinalCRUDEMP\FinalCRUDEMP\obj\Debug\FinalCRUDEMP.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FinalCRUDEMP\FinalCRUDEMP\obj\Debug\FinalCRU.2B06DA47.Up2Date
+C:\Users\HP\source\repos\FinalCRUDEMP\FinalCRUDEMP\obj\Debug\FinalCRUDEMP.dll
+C:\Users\HP\source\repos\FinalCRUDEMP\FinalCRUDEMP\obj\Debug\FinalCRUDEMP.pdb
