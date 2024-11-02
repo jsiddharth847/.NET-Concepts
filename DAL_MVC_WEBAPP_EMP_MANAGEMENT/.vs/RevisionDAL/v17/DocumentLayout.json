@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\DataAccessLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B22C0578-BCBB-4A71-A23B-6A8B430895A8}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\HP\\source\\repos\\DataAccessLayer\\dataaccesslayer\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B22C0578-BCBB-4A71-A23B-6A8B430895A8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC69B4F0-D6EA-4978-8508-8026787632E6}|WebMvcApplication\\WebMvcApplication.csproj|c:\\users\\hp\\source\\repos\\dataaccesslayer\\webmvcapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC69B4F0-D6EA-4978-8508-8026787632E6}|WebMvcApplication\\WebMvcApplication.csproj|solutionrelative:webmvcapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC69B4F0-D6EA-4978-8508-8026787632E6}|WebMvcApplication\\WebMvcApplication.csproj|C:\\Users\\HP\\source\\repos\\DataAccessLayer\\webmvcapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC69B4F0-D6EA-4978-8508-8026787632E6}|WebMvcApplication\\WebMvcApplication.csproj|solutionrelative:webmvcapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC69B4F0-D6EA-4978-8508-8026787632E6}|WebMvcApplication\\WebMvcApplication.csproj|c:\\users\\hp\\source\\repos\\dataaccesslayer\\webmvcapplication\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC69B4F0-D6EA-4978-8508-8026787632E6}|WebMvcApplication\\WebMvcApplication.csproj|solutionrelative:webmvcapplication\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC69B4F0-D6EA-4978-8508-8026787632E6}|WebMvcApplication\\WebMvcApplication.csproj|c:\\users\\hp\\source\\repos\\dataaccesslayer\\webmvcapplication\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC69B4F0-D6EA-4978-8508-8026787632E6}|WebMvcApplication\\WebMvcApplication.csproj|solutionrelative:webmvcapplication\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC69B4F0-D6EA-4978-8508-8026787632E6}|WebMvcApplication\\WebMvcApplication.csproj|C:\\Users\\HP\\source\\repos\\DataAccessLayer\\webmvcapplication\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AC69B4F0-D6EA-4978-8508-8026787632E6}|WebMvcApplication\\WebMvcApplication.csproj|solutionrelative:webmvcapplication\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DataAccessLayer\\WebMvcApplication\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebMvcApplication\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DataAccessLayer\\WebMvcApplication\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "WebMvcApplication\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T18:30:54.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DataAccessLayer\\WebMvcApplication\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebMvcApplication\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DataAccessLayer\\WebMvcApplication\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "WebMvcApplication\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T18:29:30.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DataAccessLayer\\WebMvcApplication\\Web.config",
+              "RelativeDocumentMoniker": "WebMvcApplication\\Web.config",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DataAccessLayer\\WebMvcApplication\\Web.config",
+              "RelativeToolTip": "WebMvcApplication\\Web.config",
+              "ViewState": "AgIAACkAAABAZmZmZmYkwAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-02T12:51:09.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DataAccessLayer\\WebMvcApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebMvcApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DataAccessLayer\\WebMvcApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebMvcApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAACAZmZmZmYswCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:50:13.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DataAccessLayer\\DataAccessLayer\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DataAccessLayer\\DataAccessLayer\\DataAccess.cs",
+              "RelativeToolTip": "DataAccessLayer\\DataAccess.cs",
+              "ViewState": "AgIAAHUAAAAAmpmZmZkVwE4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:20:03.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DataAccessLayer\\WebMvcApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebMvcApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DataAccessLayer\\WebMvcApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebMvcApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T13:11:05.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
