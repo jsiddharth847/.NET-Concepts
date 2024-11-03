@@ -33,23 +33,7 @@ namespace WebMvcApplication.Controllers
             }
         }
 
-        // public ActionResult Details(int id)
-        // {
-
-        //     try
-        //     {
-        //         var employees = dataAccess.GetEmployeeById(id);
-        //         if (employees == null)
-        //         {
-        //             return HttpNotFound();
-        //         }
-        //         return View(employees);
-        //     }
-        //     catch (Exception ex) {
-
-        //         return null;
-        //     }
-        // }
+      
 
         public ActionResult Create()
         {
@@ -95,6 +79,27 @@ namespace WebMvcApplication.Controllers
                 return null;
             }
         }
+
+  public ActionResult Edit(int id)
+        {
+
+            try
+            {
+                var employees = dataAccess.GetEmployeeById(id);
+                if (employees == null)
+                {
+                    return HttpNotFound();
+                }
+                return View(employees);
+            }
+            catch (Exception ex) {
+
+                return null;
+            }
+        }
+
+
+
 
         [HttpPost]
         public ActionResult Edit(EmpOrm emp)
