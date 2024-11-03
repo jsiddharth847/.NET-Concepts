@@ -77,7 +77,7 @@ namespace WebMvcApplication.Controllers
 
         }
 
-        public ActionResult Edit(int id)
+        public ActionResult Details(int id)
         {
             try
             {
