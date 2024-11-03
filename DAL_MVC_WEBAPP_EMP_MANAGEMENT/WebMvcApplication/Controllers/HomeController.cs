@@ -33,23 +33,23 @@ namespace WebMvcApplication.Controllers
             }
         }
 
-        public ActionResult Details(int id)
-        {
+        // public ActionResult Details(int id)
+        // {
 
-            try
-            {
-                var employees = dataAccess.GetEmployeeById(id);
-                if (employees == null)
-                {
-                    return HttpNotFound();
-                }
-                return View(employees);
-            }
-            catch (Exception ex) {
+        //     try
+        //     {
+        //         var employees = dataAccess.GetEmployeeById(id);
+        //         if (employees == null)
+        //         {
+        //             return HttpNotFound();
+        //         }
+        //         return View(employees);
+        //     }
+        //     catch (Exception ex) {
 
-                return null;
-            }
-        }
+        //         return null;
+        //     }
+        // }
 
         public ActionResult Create()
         {
