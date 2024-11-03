@@ -29,7 +29,7 @@ namespace DataAccessLayer
             List<EmpOrm> list = new List<EmpOrm>();
             try
             {
-                cmd.CommandText = "SELECT * FROM Employees"; // No change
+                cmd.CommandText = "SELECT * FROM Employees"; 
                 conn.Open();
                 SqlDataReader reader = cmd.ExecuteReader();
 
@@ -64,10 +64,10 @@ namespace DataAccessLayer
 
         public EmpOrm GetEmployeeById(int id)
         {
-            EmpOrm employee = null; // Changed from List<EmpOrm> to a single EmpOrm variable
+            EmpOrm employee = null; 
             try
             {
-                cmd.CommandText = $"SELECT * FROM Employees WHERE EmpId = {id}"; // No change
+                cmd.CommandText = $"SELECT * FROM Employees WHERE EmpId = {id}";
                 conn.Open();
                 SqlDataReader reader = cmd.ExecuteReader();
 
@@ -104,7 +104,7 @@ namespace DataAccessLayer
         {
             try
             {
-                cmd.CommandText = $"INSERT INTO Employees VALUES ({emp.EmpId}, '{emp.EmpName}', {emp.DeptId})"; // Fixed missing closing parenthesis
+                cmd.CommandText = $"INSERT INTO Employees VALUES ({emp.EmpId}, '{emp.EmpName}', {emp.DeptId})"; 
                 conn.Open();
                 int rowsEffected = cmd.ExecuteNonQuery();
                 return rowsEffected > 0;
@@ -132,7 +132,7 @@ namespace DataAccessLayer
         {
             try
             {
-                cmd.CommandText = $"UPDATE Employees SET EmpName = '{emp.EmpName}', DeptId = {emp.DeptId} WHERE EmpId = {emp.EmpId}"; // Corrected table name and consistency
+                cmd.CommandText = $"UPDATE Employees SET EmpName = '{emp.EmpName}', DeptId = {emp.DeptId} WHERE EmpId = {emp.EmpId}"; 
                 conn.Open();
                 int rowsEffected = cmd.ExecuteNonQuery();
                 return rowsEffected > 0;
@@ -160,7 +160,7 @@ namespace DataAccessLayer
         {
             try
             {
-                cmd.CommandText = $"DELETE FROM Employees WHERE EmpId = {id}"; // No change
+                cmd.CommandText = $"DELETE FROM Employees WHERE EmpId = {id}"; 
                 conn.Open();
                 int rowsEffected = cmd.ExecuteNonQuery();
                 return rowsEffected > 0;
@@ -186,7 +186,7 @@ namespace DataAccessLayer
 
         static void Main(string[] args)
         {
-            // Entry point for testing the DataAccess class
+            
         }
     }
 }
